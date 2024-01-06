@@ -20,4 +20,8 @@
     docker-compose up
     ```
 
-4. run command tb inside container in bash to start toolbox
+
+4. **Start using container:**
+ docker exec -it kali /bin/bash
+5. **Start toolbox:**
+ run command: "tb" inside container in bash to start toolbox
