@@ -22,11 +22,11 @@
 
 
 4. **Start using container:**
- ```bash
- docker exec -it gemina /bin/bash
- ```
+     ```bash
+     docker exec -it gemina /bin/bash
+     ```
 5. **Start toolbox:**
  run command:  inside container in bash to start toolbox
- ```bash
- "tb"
- ```
+     ```bash
+     "tb"
+     ```
