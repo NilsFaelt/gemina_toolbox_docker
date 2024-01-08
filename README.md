@@ -22,6 +22,11 @@
 
 
 4. **Start using container:**
- docker exec -it kali /bin/bash
+ ```bash
+ docker exec -it gemina /bin/bash
+ ```
 5. **Start toolbox:**
- run command: "tb" inside container in bash to start toolbox
+ run command:  inside container in bash to start toolbox
+ ```bash
+ "tb"
+ ```
