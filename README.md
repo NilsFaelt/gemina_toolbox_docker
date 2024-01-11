@@ -1,5 +1,10 @@
 ### Cloning Git Repository and Running Docker Compose
 
+**Requirements:**
+Docker: Version 24.0.6 or later  
+Docker-compose: Version  v2.22.0-desktop.2 or later
+
+
 1. **Clone the Git repository:**
 
     ```bash
