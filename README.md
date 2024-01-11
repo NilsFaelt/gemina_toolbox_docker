@@ -42,3 +42,8 @@ Docker-compose: Version  v2.22.0-desktop.2 or later
      ```bash
      1
      ```
+
+
+Happy Hacking 
+/
+Gemina
