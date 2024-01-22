@@ -11,7 +11,7 @@ WORKDIR /tool_box
 RUN git clone https://github.com/NilsFaelt/python_toolbox.git .
 
 
-RUN pip install -r requirements.txt
+RUN pip install -r requirements.txta
 RUN bash setup.sh
 
 RUN echo 'alias tb="python3 /tool_box/main.py"' >> /root/.bashrc
