@@ -10,7 +10,7 @@ Docker-compose: Version  v2.22.0-desktop.2 or later
 1. **Clone the Git repository:**
 
     ```bash
-    git clone 
+    git clone https://github.com/NilsFaelt/gemina_toolbox_docker.git
     ```
 
 2. **Navigate into the cloned directory:**
