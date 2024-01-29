@@ -33,9 +33,9 @@ Docker-compose: Version  v2.22.0-desktop.2 or later
      docker exec -it gemina /bin/bash
      ```
 5. **Start toolbox:**
- run command:  inside container in bash to start toolbox
+ run command "tb" in bash inside container
      ```bash
-     "tb"
+     tb
      ```
 5. **Install tools:**
  Choose option 1 in toolbox to install tools
