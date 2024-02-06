@@ -12,6 +12,7 @@ RUN git clone https://github.com/NilsFaelt/python_toolbox.git .
 
 
 RUN pip3 install httpx \
-    reportlab
+    reportlab \ 
+    selenium
 
 RUN echo 'alias tb="python3 /tool_box/main.py"' >> /root/.bashrc
